@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+           
+            <script src="scripts/car.js"></script>
+            <script src="scripts/manageshop.js"></script>
+           
+        </head>
+        <body>
+            <section>
+                <h2>Shop</h2>
+                <p>
+                    <label for="total">
+                        <span>Your Total ($CAD) : </span>
+                    </label>
+                    <input type="text" id="total" name="total" />
+                    <span id="total" class="form-error"></span>
+                </p>
+               
+                    <p>
+                        <button type="submit" id="submit_btn">Submit</button>
+                        <button type="reset" id="reset_btn">Reset</button>
+                    </p>
+                </section>
+
+            <section>
+                <h3>You can choose any items...</h3>
+                <div id="shop">
+
+                </div>
+            </section>
+          
+        </body>
+</html>

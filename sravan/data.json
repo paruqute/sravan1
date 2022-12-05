@@ -1,0 +1,29 @@
+{
+    "Topic": "Cars",
+    "cars": [
+      {
+        "name" : "Toyota Fortuner",
+       
+        "manufacturer": "Toyota",
+        "price": "100",
+        "image" : "Toyota-Fortuner.jpg"
+      },
+      {
+        "name" : "Jeep Compass",
+        
+        "manufacturer": "Jeep",
+        "price": "200",
+        "image" : "1595851410_jeep-compass-automatic-limited-plus.jpg"
+      },
+      {
+        "name" : "Audi Q3",
+       
+        "manufacturer": "Audi",
+        "price": "300",
+        "image" : "AudiQ3.jpg"
+      }
+    ]
+      
+    
+  }
+  
